@@ -1,9 +1,21 @@
+*{
+    background-color: teal;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
 .homepage{
     color: violet;
     font-size: 48px;
     text-align: center;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .recipe{
     font-size: 24px;
+    color:lightsalmon;
+}
+
+img{
+    height:400px;
+    width: auto;
 }
